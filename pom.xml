@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-micrograd4j</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>Orion Micrograd4J</name>
     <description>Java implementation of Karpathy's micrograd library which is a tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
     <url>https://github.com/orionlibs/orion-micrograd4j</url>
